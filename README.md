@@ -1,4 +1,28 @@
-# CO₂ Emissions Prediction Using Multiple Linear Regression: Analysis of 19 Countries (2000–2024)
-Modelado predictivo de las emisiones de CO₂ utilizando regresión lineal múltiple: estudio de 19 países (2000–2024)
-Nota: Este proyecto forma parte de mi proceso de aprendizaje en análisis de datos y machine learning. Mi objetivo es fortalecer mis conocimientos en estadística, modelado predictivo y Python mediante proyectos prácticos con datos reales.
-**"El repositorio se actualizará conforme incorpore nuevas técnicas y mejores prácticas."**
+# 📊 Machine Learning Regression Model Comparison
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+
+---
+
+## 📌 Descripción
+
+Este proyecto desarrolla un flujo completo de análisis de datos y Machine Learning para comparar el rendimiento de diferentes algoritmos de regresión utilizando Python.
+
+Los modelos implementados fueron:
+
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- Elastic Net Regression
+
+Cada modelo fue entrenado y evaluado utilizando diferentes métricas para determinar cuál ofrecía el mejor desempeño predictivo.
+
+---
+
+## 🎯 Objetivo
+
+Comparar el rendimiento de distintos modelos de regresión mediante métricas estadísticas para identificar el algoritmo con mejor capacidad predictiva y generalización.
+
+---
