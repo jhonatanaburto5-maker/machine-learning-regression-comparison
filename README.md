@@ -26,3 +26,9 @@ Cada modelo fue entrenado y evaluado utilizando diferentes métricas para determ
 Comparar el rendimiento de distintos modelos de regresión mediante métricas estadísticas para identificar el algoritmo con mejor capacidad predictiva y generalización.
 
 ---
+## 🗂 Dataset
+
+- Número de registros: 36540
+- Número de variables: 10 
+- Variable objetivo: CO_2 Emisision
+- Tipo de problema:  Predicción
