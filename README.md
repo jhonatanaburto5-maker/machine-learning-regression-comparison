@@ -9,7 +9,7 @@
 
 Este proyecto desarrolla un flujo de análisis de datos y Machine Learning para comparar diferentes modelos de regresión aplicados a la predicción de emisiones de CO₂ a partir de variables relacionadas con clima y energía.
 
-Los modelos evaluados son:
+### Modelos evaluados
 
 - Regresión lineal múltiple
 - Ridge Regression
@@ -30,11 +30,11 @@ Comparar el rendimiento de diferentes modelos de regresión para identificar cu�
 - **Tipo de problema:** Regresión supervisada
 - **Dominio:** Clima y energía
 
-El dataset original no se incluye directamente en el repositorio. Para reproducir el análisis, consulta las indicaciones de la carpeta `data/`.
+El dataset original no se incluye directamente en el repositorio. La ruta utilizada en el notebook debe adaptarse al entorno local donde se encuentre el archivo.
 
 ## 🛠 Tecnologías utilizadas
 
-- Python
+- Python 3.12+
 - Pandas
 - NumPy
 - Matplotlib
@@ -86,8 +86,6 @@ Por lo tanto, los resultados deben interpretarse como parte de un **estudio de m
 
 ```text
 machine-learning-regression-comparison/
-├── data/
-│   └── README.md
 ├── Comparacion_modelo_regresion_lineal.ipynb
 ├── Energia.ipynb
 ├── README.md
